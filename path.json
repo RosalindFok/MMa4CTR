@@ -1,0 +1,14 @@
+{
+"parent_folder":"..",
+"dataset_path":"dataset",
+"wechat_dataset_path":"wechat", 
+"tiktok_dataset_path":"TikTok2019ICME/track1",
+"graph_path":"bipartite_graph",
+"modal_path":"multi_modal",
+"matrix_path":"matrix",
+"feed_embedding":"feed_embeddings.csv",
+"torch_model_path":"torch_model",
+"user_embedding_path":"user_all_embeddings",
+"saved_path" : "saved",
+"temp_path" : "temp"
+}
