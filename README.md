@@ -80,7 +80,7 @@ dataset // Attention: You should put this folder at the same path as MMa4CTR.
 ```
 
 **Install Requirements for MMa4CTR:** 
-1. Prepare your conda environment and then activate it: `conda create -n MMa4CTR python=3.9.5`$\rightarrow$`conda activate MMa4CTR`. `python version = 3.9.5`, `golang version = go1.10.4 linux/amd64`.
+1. Prepare your conda environment and then activate it: `conda create -n MMa4CTR python=3.9.5`$\rightarrow$`conda activate MMa4CTR`. <br>`python version = 3.9.5`, `golang version = go1.10.4 linux/amd64`.
 2. Git clone MMa4CTR project: `git clone https://gitee.com/FluorineHow/MMa4CTR.git`$\rightarrow$`cd MMa4CTR`
 3. Requirements list
 ```shell
