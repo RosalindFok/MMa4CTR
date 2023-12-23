@@ -24,7 +24,7 @@ for index, value in enumerate(y):
     plt.text(index, value+30, value, ha='center', fontsize=16)
 plt.show()
 
-""" 2. wechat -- epoch对Test AUC影响的折线图 """
+""" 2. epoch对Test AUC影响的折线图 """
 # 微信
 x = np.array(range(5, 101, 5))
 y = np.array([0.9454,0.9517,0.9400,0.9332,0.9303,0.9302,0.9454,0.9313,0.9436,0.9191,0.9043,0.9179,0.9508,
@@ -60,7 +60,7 @@ plt.plot(x, y, marker='o', color='#000000')
 plt.grid()
 plt.show()
 
-""" 3. wechat -- batchsize对Test AUC影响的双折线图 """
+""" 3. batchsize对Test AUC影响的双折线图 """
 # 微信
 x = ['32768', '16384', '8192', '4096', '2048', '1024', '512', '256', '128', '64']
 y_10 = [0.9455,0.9489,0.9421,0.9356,0.9028,0.8968,0.8677,0.8976,0.8892,0.7942]
