@@ -106,10 +106,10 @@ True
 **Install Requirements for Baselines:** 
 [Install RecBole](https://recbole.io/docs/get_started/install.html). My python = 3.7.12, recbole = 1.1.1, ray = 2.3.0
 
-**Run baselines code:** `cd ./MMa4CTR/baseline` $\rightarrow$ change `wechat.yaml\tiktok.yaml` and `comp.py` $\rightarrow$ `python comp.py`
+**Run baselines code:** `cd ./MMa4CTR/baseline` -> change `wechat.yaml\tiktok.yaml` and `comp.py` -> `python comp.py`
 
 **Run MMa4CTR code:**<br>
-Raw Data Preprocess: `python preprocess_inter.py` $\rightarrow$ You could run `./main_windows.exe` on Windows Operating System or run `main_linux` on Linux(x86_64); if it does not work, please run `go build -o main main.go` and then `./main` on your own machine $\rightarrow$ `python preprocess_inter.py` again $\rightarrow$ `python preprocess_multimodal.py`<br>
+Raw Data Preprocess: `python preprocess_inter.py` -> You could run `./main_windows.exe` on Windows Operating System or run `main_linux` on Linux(x86_64); if it does not work, please run `go build -o main main.go` and then `./main` on your own machine -> `python preprocess_inter.py` again -> `python preprocess_multimodal.py`<br>
 Generate embeddings of each user: `python get_user_embedding.py`<br>
 Generate matrix for MLP: `python cross_matrix.py` and `python gen_matrix.py`. cross_matrix.py: modal cross and modal concat, gen_matrix.py: single modal.<br>
 Start train/valid/test: `python adjust_hyperparameter.py`<br>
