@@ -4,8 +4,9 @@
 
 Cite as:
 
-[Yufu HUO,Beihong JIN,Zhaoyi LIAO. Multi-modal information augmented model for micro-video recommendation. Journal of ZheJiang University (Engineering Science), 2024, 58(6): 1142-1152.]
-
+``` text
+Yufu HUO,Beihong JIN,Zhaoyi LIAO. Multi-modal information augmented model for micro-video recommendation. Journal of ZheJiang University (Engineering Science), 2024, 58(6): 1142-1152.
+```
 
 ## 1. Computational Device
 **Experiment Environment:** 
