@@ -1,7 +1,9 @@
 # README
 
 ✨ The Code Of the Paper: Multi-modal information augmented model for micro-video recommendation(多模态信息增强的短视频推荐模型)✨
+
 Cite as:
+
 [Yufu HUO,Beihong JIN,Zhaoyi LIAO. Multi-modal information augmented model for micro-video recommendation. Journal of ZheJiang University (Engineering Science), 2024, 58(6): 1142-1152.]
 
 
